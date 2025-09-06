@@ -4,31 +4,35 @@ This project explores historical airplane crash records to uncover insights abou
 
 **Project Highlights:**
 
-1)Data Cleaning:
+1) Data Cleaning:
 
--Replaced missing values and dropped irrelevant columns.
+  -Replaced missing values and dropped irrelevant columns.
 
--Removed bracketed text (e.g., passenger/crew breakdowns) from Fatalities and Aboard.
+  -Removed bracketed text (e.g., passenger/crew breakdowns) from Fatalities and Aboard.
 
--Converted numerical columns into consistent formats.
+  -Converted numerical columns into consistent formats.
 
-2)Exploratory Data Analysis (EDA):
+2) Exploratory Data Analysis (EDA):
 
--Yearly crash and fatality trends.
--Top airlines with most crashes and fatalities.
--Survival rate analysis per airline and per crash.
--Fatality distribution visualizations.
+  -Yearly crash and fatality trends.
+  -Top airlines with most crashes and fatalities.
+  
+  -Survival rate analysis per airline and per crash.
+  
+  -Fatality distribution visualizations.
 
-3)Visualization:
+3) Visualization:
 
--Line plots for crash trends over decades.
--Bar charts for airline-level crash and fatality comparisons.
--Heatmaps for survival vs. fatality rates.
+  -Line plots for crash trends over decades.
+  
+  -Bar charts for airline-level crash and fatality comparisons.
+  
+  -Heatmaps for survival vs. fatality rates.
 
 **Tech Stack:**
 
-Python
-Pandas, NumPy → data cleaning & preprocessing
+Python,
+Pandas, NumPy → data cleaning & preprocessing,
 Matplotlib, Seaborn → visualizations
 
 **Applications:**
