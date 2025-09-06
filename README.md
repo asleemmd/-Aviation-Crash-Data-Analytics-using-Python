@@ -7,7 +7,9 @@ This project explores historical airplane crash records to uncover insights abou
 1)Data Cleaning:
 
 -Replaced missing values and dropped irrelevant columns.
+
 -Removed bracketed text (e.g., passenger/crew breakdowns) from Fatalities and Aboard.
+
 -Converted numerical columns into consistent formats.
 
 2)Exploratory Data Analysis (EDA):
