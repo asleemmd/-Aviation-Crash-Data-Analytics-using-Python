@@ -4,30 +4,31 @@ This project explores historical airplane crash records to uncover insights abou
 
 **Project Highlights:**
 
-1) Data Cleaning:
+Data Cleaning:
 
-  -Replaced missing values and dropped irrelevant columns.
+  - Replaced missing values and dropped irrelevant columns.
 
-  -Removed bracketed text (e.g., passenger/crew breakdowns) from Fatalities and Aboard.
+  - Removed bracketed text (e.g., passenger/crew breakdowns) from Fatalities and Aboard.
 
-  -Converted numerical columns into consistent formats.
+  - Converted numerical columns into consistent formats.
 
-2) Exploratory Data Analysis (EDA):
+Exploratory Data Analysis (EDA):
 
-  -Yearly crash and fatality trends.
-  -Top airlines with most crashes and fatalities.
+  - Yearly crash and fatality trends.
   
-  -Survival rate analysis per airline and per crash.
+  - Top airlines with most crashes and fatalities.
   
-  -Fatality distribution visualizations.
+  - Survival rate analysis per airline and per crash.
+  
+  - Fatality distribution visualizations.
 
-3) Visualization:
+Visualization:
 
-  -Line plots for crash trends over decades.
+  - Line plots for crash trends over decades.
   
-  -Bar charts for airline-level crash and fatality comparisons.
+  - Bar charts for airline-level crash and fatality comparisons.
   
-  -Heatmaps for survival vs. fatality rates.
+  - Heatmaps for survival vs. fatality rates.
 
 **Tech Stack:**
 
